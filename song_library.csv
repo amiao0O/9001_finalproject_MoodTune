@@ -1,0 +1,201 @@
+title,artist,genre,mood,energy,language,scene,popularity,tempo,danceability,valence
+Cruel Summer,Taylor Swift,Pop,happy,high,English,party,92,fast,82,78
+Style,Taylor Swift,Pop,chill,medium,English,commute,88,medium,76,68
+Lover,Taylor Swift,Pop,romantic,medium,English,relaxing,86,medium,64,74
+Anti-Hero,Taylor Swift,Pop,emotional,medium,English,commute,90,medium,70,50
+Shake It Off,Taylor Swift,Pop,happy,high,English,party,91,fast,86,82
+Blank Space,Taylor Swift,Pop,energetic,high,English,party,89,fast,75,62
+Levitating,Dua Lipa,Pop,happy,high,English,party,91,fast,88,84
+Don't Start Now,Dua Lipa,Pop,energetic,high,English,workout,92,fast,90,80
+New Rules,Dua Lipa,Pop,energetic,high,English,party,86,fast,80,70
+Physical,Dua Lipa,Pop,energetic,high,English,workout,84,fast,82,73
+As It Was,Harry Styles,Pop,chill,medium,English,walking,90,medium,72,60
+Watermelon Sugar,Harry Styles,Pop,happy,high,English,party,88,fast,84,86
+Late Night Talking,Harry Styles,Pop,happy,medium,English,commute,84,medium,80,77
+Adore You,Harry Styles,Pop,romantic,medium,English,relaxing,84,medium,71,75
+Bad Guy,Billie Eilish,Pop,chill,medium,English,walking,89,medium,78,40
+Ocean Eyes,Billie Eilish,Pop,sad,low,English,sleep,82,slow,45,35
+Everything I Wanted,Billie Eilish,Pop,emotional,low,English,relaxing,84,slow,50,38
+Happier Than Ever,Billie Eilish,Pop,emotional,medium,English,relaxing,85,medium,46,44
+Birds of a Feather,Billie Eilish,Pop,romantic,medium,English,relaxing,91,medium,70,72
+Espresso,Sabrina Carpenter,Pop,happy,high,English,party,93,fast,86,84
+Feather,Sabrina Carpenter,Pop,happy,high,English,walking,85,fast,82,78
+Please Please Please,Sabrina Carpenter,Pop,romantic,medium,English,commute,88,medium,73,64
+Flowers,Miley Cyrus,Pop,hopeful,medium,English,walking,90,medium,78,76
+Wrecking Ball,Miley Cyrus,Pop,sad,medium,English,relaxing,84,medium,52,38
+Party In The U.S.A.,Miley Cyrus,Pop,happy,high,English,party,86,fast,82,88
+Teenage Dream,Katy Perry,Pop,happy,high,English,party,87,fast,80,86
+Firework,Katy Perry,Pop,hopeful,high,English,workout,85,fast,70,82
+Roar,Katy Perry,Pop,hopeful,high,English,workout,83,fast,72,80
+California Gurls,Katy Perry,Pop,happy,high,English,party,84,fast,86,88
+Blinding Lights,The Weeknd,Pop,energetic,high,English,workout,94,fast,80,72
+Save Your Tears,The Weeknd,Pop,sad,medium,English,commute,90,medium,68,55
+Can't Feel My Face,The Weeknd,Pop,energetic,high,English,party,87,fast,82,70
+Starboy,The Weeknd,Pop,energetic,high,English,party,91,fast,78,58
+Shape of You,Ed Sheeran,Pop,happy,medium,English,party,90,medium,82,74
+Perfect,Ed Sheeran,Pop,romantic,low,English,relaxing,88,slow,60,78
+Photograph,Ed Sheeran,Pop,emotional,low,English,relaxing,84,slow,50,50
+Bad Habits,Ed Sheeran,Pop,energetic,high,English,party,86,fast,82,68
+Someone Like You,Adele,Pop,sad,low,English,relaxing,88,slow,42,28
+Rolling in the Deep,Adele,Pop,emotional,high,English,commute,86,fast,68,54
+Kill Bill,SZA,R&B,emotional,medium,English,commute,91,medium,72,45
+Good Days,SZA,R&B,chill,medium,English,relaxing,88,medium,64,65
+Snooze,SZA,R&B,romantic,medium,English,relaxing,89,medium,68,70
+Saturn,SZA,R&B,emotional,medium,English,study,86,medium,58,55
+Leave The Door Open,Silk Sonic,R&B,romantic,medium,English,relaxing,87,medium,72,82
+Smokin Out The Window,Silk Sonic,R&B,emotional,medium,English,commute,80,medium,70,58
+That's What I Like,Bruno Mars,R&B,happy,high,English,party,88,fast,84,80
+Just the Way You Are,Bruno Mars,R&B,romantic,medium,English,relaxing,86,medium,70,78
+Treasure,Bruno Mars,R&B,happy,high,English,party,82,fast,88,86
+Talking to the Moon,Bruno Mars,R&B,sad,low,English,sleep,84,slow,42,35
+Get You,Daniel Caesar,R&B,romantic,low,English,relaxing,78,slow,55,72
+Best Part,Daniel Caesar,R&B,romantic,low,English,relaxing,82,slow,56,76
+Japanese Denim,Daniel Caesar,R&B,chill,low,English,study,76,slow,52,62
+Redbone,Childish Gambino,R&B,chill,medium,English,relaxing,84,medium,74,58
+Pink + White,Frank Ocean,R&B,chill,medium,English,relaxing,82,medium,60,65
+Thinkin Bout You,Frank Ocean,R&B,emotional,low,English,relaxing,82,slow,48,42
+Lost,Frank Ocean,R&B,happy,medium,English,walking,78,medium,78,76
+Nights,Frank Ocean,R&B,emotional,medium,English,study,80,medium,62,54
+Yellow,Coldplay,Rock,hopeful,medium,English,relaxing,86,medium,55,70
+Fix You,Coldplay,Rock,hopeful,low,English,relaxing,85,slow,42,68
+Viva La Vida,Coldplay,Rock,hopeful,high,English,commute,88,fast,68,76
+The Scientist,Coldplay,Rock,sad,low,English,sleep,83,slow,38,32
+Paradise,Coldplay,Rock,hopeful,medium,English,travel,84,medium,62,70
+Mr. Brightside,The Killers,Rock,energetic,high,English,party,86,fast,72,62
+Somebody Told Me,The Killers,Rock,energetic,high,English,workout,78,fast,74,60
+Sweet Child O' Mine,Guns N' Roses,Rock,energetic,high,English,workout,84,fast,65,72
+Don't Stop Believin,Journey,Rock,hopeful,high,English,party,85,fast,68,84
+Wonderwall,Oasis,Rock,hopeful,medium,English,commute,83,medium,58,66
+Champagne Supernova,Oasis,Rock,chill,medium,English,relaxing,78,medium,50,58
+Creep,Radiohead,Rock,sad,medium,English,relaxing,86,medium,48,28
+Karma Police,Radiohead,Rock,chill,medium,English,study,78,medium,52,42
+No Surprises,Radiohead,Rock,sad,low,English,sleep,80,slow,42,30
+Smells Like Teen Spirit,Nirvana,Rock,energetic,high,English,workout,88,fast,62,46
+Come As You Are,Nirvana,Rock,chill,medium,English,commute,82,medium,56,48
+Use Somebody,Kings of Leon,Rock,hopeful,high,English,travel,78,fast,58,70
+Sex on Fire,Kings of Leon,Rock,energetic,high,English,party,80,fast,66,68
+Riptide,Vance Joy,Indie,happy,medium,English,travel,84,medium,75,82
+Home,Edward Sharpe and the Magnetic Zeros,Indie,happy,medium,English,travel,78,medium,72,86
+Ophelia,The Lumineers,Indie,happy,medium,English,walking,80,medium,72,78
+Ho Hey,The Lumineers,Indie,hopeful,medium,English,walking,78,medium,70,78
+Budapest,George Ezra,Indie,happy,medium,English,travel,79,medium,74,80
+Shotgun,George Ezra,Indie,happy,high,English,travel,80,fast,80,85
+Skinny Love,Bon Iver,Indie,sad,low,English,sleep,78,slow,36,25
+Holocene,Bon Iver,Indie,chill,low,English,study,76,slow,38,45
+The Night We Met,Lord Huron,Indie,sad,low,English,sleep,82,slow,40,24
+Ends of the Earth,Lord Huron,Indie,hopeful,medium,English,travel,72,medium,55,68
+Sweater Weather,The Neighbourhood,Indie,chill,medium,English,commute,84,medium,65,55
+Daddy Issues,The Neighbourhood,Indie,emotional,medium,English,relaxing,78,medium,58,40
+Electric Love,BORNS,Indie,romantic,high,English,party,82,fast,78,82
+Past Lives,BORNS,Indie,romantic,medium,English,relaxing,74,medium,62,70
+Supercut,Lorde,Indie,energetic,high,English,walking,78,fast,72,62
+Royals,Lorde,Indie,chill,medium,English,commute,83,medium,70,52
+Green Light,Lorde,Indie,energetic,high,English,workout,80,fast,76,72
+Liability,Lorde,Indie,sad,low,English,sleep,76,slow,36,22
+Wake Me Up,Avicii,Electronic,hopeful,high,English,workout,86,fast,74,82
+The Nights,Avicii,Electronic,hopeful,high,English,travel,84,fast,76,85
+Levels,Avicii,Electronic,energetic,high,English,party,84,fast,82,78
+Faded,Alan Walker,Electronic,sad,medium,English,study,84,medium,65,45
+Alone,Alan Walker,Electronic,emotional,medium,English,walking,78,medium,68,50
+Spectre,Alan Walker,Electronic,energetic,high,English,workout,74,fast,72,62
+Closer,The Chainsmokers,Electronic,romantic,medium,English,party,86,medium,78,72
+Something Just Like This,The Chainsmokers and Coldplay,Electronic,hopeful,high,English,workout,85,fast,72,78
+Don't Let Me Down,The Chainsmokers,Electronic,emotional,high,English,workout,82,fast,74,56
+Titanium,David Guetta and Sia,Electronic,hopeful,high,English,workout,84,fast,76,80
+Without You,David Guetta,Electronic,emotional,high,English,party,78,fast,74,62
+Memories,David Guetta,Electronic,happy,high,English,party,82,fast,84,82
+Strobe,Deadmau5,Electronic,chill,medium,English,study,72,medium,60,66
+Midnight City,M83,Electronic,chill,medium,English,travel,80,medium,72,70
+Get Lucky,Daft Punk,Electronic,happy,high,English,party,86,fast,88,86
+One More Time,Daft Punk,Electronic,happy,high,English,party,84,fast,86,88
+Shelter,Porter Robinson and Madeon,Electronic,hopeful,high,English,travel,78,fast,70,78
+Language,Porter Robinson,Electronic,hopeful,high,English,study,75,fast,68,80
+Sunflower,Post Malone and Swae Lee,Hip-hop,happy,medium,English,walking,90,medium,82,78
+Circles,Post Malone,Hip-hop,chill,medium,English,commute,87,medium,76,62
+Congratulations,Post Malone,Hip-hop,hopeful,medium,English,party,82,medium,74,70
+Rockstar,Post Malone,Hip-hop,energetic,medium,English,party,84,medium,78,45
+God's Plan,Drake,Hip-hop,hopeful,medium,English,commute,86,medium,76,68
+Hotline Bling,Drake,Hip-hop,chill,medium,English,walking,84,medium,80,58
+One Dance,Drake,Hip-hop,happy,medium,English,party,86,medium,90,74
+Passionfruit,Drake,Hip-hop,chill,medium,English,relaxing,82,medium,80,62
+HUMBLE.,Kendrick Lamar,Hip-hop,energetic,high,English,workout,86,fast,76,52
+DNA.,Kendrick Lamar,Hip-hop,energetic,high,English,workout,82,fast,70,48
+Alright,Kendrick Lamar,Hip-hop,hopeful,medium,English,commute,82,medium,72,70
+SICKO MODE,Travis Scott,Hip-hop,energetic,high,English,workout,88,fast,78,48
+Goosebumps,Travis Scott,Hip-hop,emotional,medium,English,commute,84,medium,75,45
+Highest in the Room,Travis Scott,Hip-hop,chill,medium,English,walking,82,medium,70,50
+Industry Baby,Lil Nas X,Hip-hop,energetic,high,English,workout,86,fast,82,76
+Old Town Road,Lil Nas X,Hip-hop,happy,medium,English,party,84,medium,86,82
+See You Again,Tyler The Creator,Hip-hop,romantic,medium,English,relaxing,82,medium,72,68
+EARFQUAKE,Tyler The Creator,Hip-hop,emotional,medium,English,relaxing,80,medium,70,52
+Dynamite,BTS,K-pop,happy,high,Korean,party,90,fast,86,88
+Butter,BTS,K-pop,happy,high,Korean,party,88,fast,84,86
+Spring Day,BTS,K-pop,emotional,medium,Korean,relaxing,84,medium,55,52
+Fake Love,BTS,K-pop,emotional,medium,Korean,commute,84,medium,66,42
+Boy With Luv,BTS,K-pop,happy,high,Korean,party,86,fast,82,84
+How You Like That,BLACKPINK,K-pop,energetic,high,Korean,workout,86,fast,80,62
+DDU-DU DDU-DU,BLACKPINK,K-pop,energetic,high,Korean,party,84,fast,82,60
+Pink Venom,BLACKPINK,K-pop,energetic,high,Korean,workout,84,fast,78,58
+Lovesick Girls,BLACKPINK,K-pop,emotional,high,Korean,commute,82,fast,74,55
+Kill This Love,BLACKPINK,K-pop,energetic,high,Korean,workout,84,fast,78,55
+Super Shy,NewJeans,K-pop,happy,high,Korean,walking,88,fast,88,82
+Ditto,NewJeans,K-pop,chill,medium,Korean,study,86,medium,70,62
+OMG,NewJeans,K-pop,happy,medium,Korean,walking,86,medium,84,78
+Hype Boy,NewJeans,K-pop,happy,high,Korean,party,87,fast,86,80
+Attention,NewJeans,K-pop,chill,medium,Korean,commute,84,medium,78,70
+I AM,IVE,K-pop,hopeful,high,Korean,workout,84,fast,78,82
+LOVE DIVE,IVE,K-pop,chill,medium,Korean,party,85,medium,82,70
+After LIKE,IVE,K-pop,happy,high,Korean,party,84,fast,86,82
+ELEVEN,IVE,K-pop,energetic,medium,Korean,party,80,medium,78,68
+Supernova,aespa,K-pop,energetic,high,Korean,workout,86,fast,80,70
+Drama,aespa,K-pop,energetic,high,Korean,party,84,fast,78,62
+Next Level,aespa,K-pop,energetic,high,Korean,workout,82,fast,76,58
+Spicy,aespa,K-pop,happy,high,Korean,party,82,fast,84,82
+Queencard,(G)I-DLE,K-pop,happy,high,Korean,party,84,fast,86,82
+Tomboy,(G)I-DLE,K-pop,energetic,high,Korean,workout,82,fast,78,60
+Qing Tian,Jay Chou,C-pop,sad,medium,Chinese,relaxing,86,medium,55,45
+Dao Xiang,Jay Chou,C-pop,hopeful,medium,Chinese,relaxing,84,medium,62,82
+Ye Qu,Jay Chou,C-pop,emotional,medium,Chinese,commute,82,medium,64,40
+Qi Li Xiang,Jay Chou,C-pop,romantic,medium,Chinese,relaxing,84,medium,60,72
+Mojito,Jay Chou,C-pop,happy,medium,Chinese,party,80,medium,78,86
+Love Confession,Jay Chou,C-pop,romantic,medium,Chinese,walking,82,medium,72,80
+The Brightest Star In The Night Sky,Escape Plan,C-pop,hopeful,medium,Chinese,travel,78,medium,62,80
+Ordinary Road,Pu Shu,C-pop,hopeful,medium,Chinese,travel,78,medium,55,72
+Actor,Joker Xue,C-pop,sad,medium,Chinese,relaxing,80,medium,50,35
+Gentleman,Joker Xue,C-pop,emotional,medium,Chinese,relaxing,76,medium,55,42
+No Reason,Joker Xue,C-pop,sad,medium,Chinese,relaxing,76,medium,52,38
+A Little Happiness,Hebe Tien,C-pop,emotional,medium,Chinese,relaxing,80,medium,58,55
+You Exist In My Song,Qu Wanting,C-pop,romantic,medium,Chinese,relaxing,76,medium,60,72
+The Moon Represents My Heart,Teresa Teng,C-pop,romantic,low,Chinese,sleep,78,slow,45,78
+Red Rose,Eason Chan,C-pop,emotional,medium,Chinese,relaxing,80,medium,52,42
+Ten Years,Eason Chan,C-pop,sad,medium,Chinese,relaxing,82,medium,50,35
+K Song King,Eason Chan,C-pop,emotional,medium,Chinese,commute,76,medium,60,45
+Listen To The Sea,A-Mei,C-pop,emotional,medium,Chinese,relaxing,76,medium,52,40
+Sparkle,RADWIMPS,J-pop,hopeful,medium,Japanese,study,78,medium,58,78
+Zen Zen Zense,RADWIMPS,J-pop,energetic,high,Japanese,workout,80,fast,74,80
+Lemon,Kenshi Yonezu,J-pop,sad,medium,Japanese,relaxing,82,medium,58,40
+KICK BACK,Kenshi Yonezu,J-pop,energetic,high,Japanese,workout,82,fast,76,55
+Idol,YOASOBI,J-pop,energetic,high,Japanese,party,86,fast,82,78
+Yoru Ni Kakeru,YOASOBI,J-pop,energetic,high,Japanese,walking,84,fast,80,72
+First Love,Hikaru Utada,J-pop,romantic,low,Japanese,relaxing,82,slow,46,65
+Plastic Love,Mariya Takeuchi,J-pop,chill,medium,Japanese,commute,80,medium,76,70
+Despacito,Luis Fonsi,Latin,happy,high,Spanish,party,90,fast,90,86
+Mi Gente,J Balvin,Latin,energetic,high,Spanish,party,84,fast,90,82
+Taki Taki,DJ Snake,Latin,energetic,high,Spanish,party,84,fast,88,70
+Bailando,Enrique Iglesias,Latin,romantic,high,Spanish,party,82,fast,86,82
+Havana,Camila Cabello,Latin,romantic,medium,English,party,86,medium,84,76
+Senorita,Shawn Mendes and Camila Cabello,Latin,romantic,medium,English,relaxing,86,medium,78,75
+La Camisa Negra,Juanes,Latin,energetic,medium,Spanish,party,76,medium,82,68
+Vivir Mi Vida,Marc Anthony,Latin,hopeful,high,Spanish,party,78,fast,82,88
+Fly Me To The Moon,Frank Sinatra,Jazz,romantic,medium,English,relaxing,78,medium,58,82
+What A Wonderful World,Louis Armstrong,Jazz,hopeful,low,English,relaxing,80,slow,42,86
+Feeling Good,Nina Simone,Jazz,hopeful,medium,English,relaxing,78,medium,48,78
+Dream A Little Dream Of Me,Ella Fitzgerald,Jazz,chill,low,English,sleep,76,slow,44,72
+La Vie En Rose,Louis Armstrong,Jazz,romantic,low,English,relaxing,76,slow,45,76
+Take Five,Dave Brubeck,Jazz,chill,medium,English,study,76,medium,60,68
+River Flows In You,Yiruma,Soundtrack,chill,low,English,study,78,slow,34,62
+Kiss The Rain,Yiruma,Soundtrack,sad,low,English,study,74,slow,32,42
+Experience,Ludovico Einaudi,Soundtrack,hopeful,medium,English,study,78,medium,36,70
+Nuvole Bianche,Ludovico Einaudi,Soundtrack,chill,low,English,study,76,slow,34,64
+Comptine d'un autre ete,Yann Tiersen,Soundtrack,chill,low,English,study,76,slow,38,60
+Lofi Study Beats,Chillhop Music,Lo-fi,chill,low,English,study,62,slow,62,65
