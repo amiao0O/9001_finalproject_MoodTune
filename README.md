@@ -1,76 +1,37 @@
-# MoodTune: A Personal Music Mood Recommender
-==========================================
+# MoodTune: Your Personal Music Mood Recommender
 
-Project description
--------------------
-MoodTune is a terminal-based Python music recommender designed for students and music lovers. It helps users pick songs based on mood, genre, energy level, language, listening scene, and optional tempo. The project runs fully offline, uses a local CSV song library, and is suitable for a short classroom demonstration.
+MoodTune is a terminal-based Python program created for the COMP9001 Python Project Challenge. It recommends songs based on the user's mood, preferred genre, energy level, language, listening scene, and tempo preference.
 
-Main features
--------------
-1. Song recommendation
-   - Recommends one song using a scoring system based on mood, genre, energy, language, scene, tempo, popularity, and liked artists.
+## Project Description
 
-2. Playlist generation
-   - Creates a ranked playlist and presents the first five songs as a MoodTune playlist flow:
-     warm-up track, main mood match, energy boost, popular pick, and calm ending.
+Many students listen to music while studying, relaxing, travelling, walking, or working out, but sometimes it is hard to decide what to play. MoodTune helps users find songs that match their current mood and situation.
 
-3. Music mood quiz
-   - Asks 4 quick questions and builds a suggested profile before recommending a song.
+Instead of choosing songs randomly, the program uses a simple scoring system. It compares the user's preferences with each song's metadata and gives readable reasons for each recommendation.
 
-4. Library statistics
-   - Shows total songs, number of genres, number of languages, most common mood, most common genre, high-energy song count, and scene counts.
+## Main Features
 
-5. Liked songs
-   - Saves recommended songs to liked_songs.csv and gives bonus points to artists the user liked before.
+- Recommend songs based on mood, genre, energy, language, scene, and tempo
+- Generate a playlist flow for a better listening experience
+- Take a music mood quiz
+- Save liked songs
+- View liked songs
+- Add new songs to the song library
+- View library statistics
 
-6. Add a new song
-   - Lets the user add a new song with scene, tempo, popularity, danceability, and valence values.
+## Python Concepts Used
 
-Advanced Python concepts used
------------------------------
-1. Object-oriented programming
-   - The project uses a Song class and a MusicRecommender class.
+This project uses several Python concepts from COMP9001:
 
-2. CSV file handling
-   - The program reads from song_library.csv and liked_songs.csv and writes updates back to CSV files.
+- Functions
+- Lists and dictionaries
+- Object-oriented programming
+- CSV file handling
+- Exception handling
+- Menu-based user interaction
 
-3. Scoring and data processing
-   - Each song is scored using multiple matching rules and readable reasons are stored for display.
+## How to Run
 
-4. Dictionaries and collections
-   - The project uses dictionaries and Counter from the built-in collections module for quiz mapping and library statistics.
+Keep all files in the same folder, then run:
 
-5. Input validation and exception handling
-   - The program safely handles invalid menu choices, invalid numbers, missing files, and missing optional CSV columns.
-
-How to run the program
-----------------------
-1. Keep all project files in the same folder.
-2. Open a terminal in the project folder.
-3. Run:
-
-   python3 main.py
-
-4. Follow the menu options in the terminal.
-
-File structure
---------------
-main.py
-- Main program file.
-- Handles menus, user input, quiz questions, and display formatting.
-
-song.py
-- Defines the Song class.
-- Stores title, artist, genre, mood, energy, language, scene, popularity, tempo, danceability, and valence.
-
-recommender.py
-- Defines the MusicRecommender class.
-- Handles CSV loading, scoring, recommendation, playlist generation, statistics, liked-song saving, and adding songs.
-
-song_library.csv
-- Local music library used by the program.
-- The project does not need internet access or any external API.
-
-liked_songs.csv
-- Stores the user's saved songs.
-- The file is updated when the user likes a recommendation.
+```bash
+python3 main.py
