@@ -74,16 +74,3 @@ song_library.csv
 liked_songs.csv
 - Stores the user's saved songs.
 - The file is updated when the user likes a recommendation.
-
-Offline note
-------------
-MoodTune works fully offline. It does not use Spotify, Last.fm, or any other internet service. All recommendations come from the local CSV library.
-
-Presentation idea
------------------
-A simple demo flow for a 3-minute presentation is:
-1. Show the main menu.
-2. Run a single recommendation with mood, genre, scene, and tempo.
-3. Run the music mood quiz.
-4. Show the playlist flow.
-5. Open library statistics to show the 200-song dataset.
